@@ -112,3 +112,7 @@ InitTestScene*.unity*
 
 # Auto-generated cache in Assets folder
 /[Aa]ssets/[Ss]ceneDependencyCache*
+
+# Local machine and Unity-generated files
+.DS_Store
+/TIC_TAC_TOE_GAME_BackUpThisFolder_ButDontShipItWithYourGame/
